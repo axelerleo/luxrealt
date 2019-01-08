@@ -147,7 +147,7 @@ body {
     .header {
       padding: 5rem; } }
   .header__logo {
-    height: 5rem;
+    height: 3rem;
     justify-self: center; }
   .header__seenon-text {
     display: grid;
